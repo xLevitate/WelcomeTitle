@@ -1,0 +1,7 @@
+name: WelcomeTitle
+version: '${version}'
+main: me.levitate.welcometitle.WelcomeTitle
+api-version: '1.20'
+authors: [Levitate]
+description: A plugin that allows a title to be displayed when a player enters the server.
+website: https://xlevitate.co
